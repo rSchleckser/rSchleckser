@@ -5,7 +5,7 @@
 
 ### 🚀 About Me
 
-I am a **Software Engineer** with a background in avionics, where I developed strong analytical and problem-solving abilities. After completing a software engineering bootcamp, I transitioned into full-stack development, focusing on technologies like React.js, Node.js, and Django. My experience allows me to create efficient and scalable applications that meet both user needs and business objectives. I am currently enhancing my skills through new projects and am actively seeking opportunities to apply my knowledge in a professional setting.
+I am a **Software Engineer** with a background in avionics, where I developed strong analytical and problem-solving abilities. I recently graduated from **General Assembly** with a focus on full-stack development. I specialize in technologies like React.js, Node.js, and Django, enabling me to create efficient and scalable applications. I am currently enhancing my skills through new projects and am actively seeking opportunities to apply my knowledge in a professional setting.
 
 ### 🛠️ Technologies & Tools
 
