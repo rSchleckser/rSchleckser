@@ -1,7 +1,7 @@
 ## Hi there! 👋 I'm Richard Schleckser!
 
 [![GitHub followers](https://img.shields.io/github/followers/rSchleckser?label=Follow&style=social)](https://github.com/rSchleckser)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](www.linkedin.com/in/richard-schleckser-b4808487)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/richard-schleckser-b4808487)
 
 ### 🚀 About Me
 
