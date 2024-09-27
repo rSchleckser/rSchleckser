@@ -10,7 +10,8 @@ I am a **Software Engineer** with a background in avionics, where I developed st
 ### 🛠️ Technologies & Tools
 
 - **Languages**: JavaScript, Python, SQL
-- **Frontend**: React.js, Bootstrap, Semantic UI
+- **Frontend**: React.js, TypeScript
+- **CSS Frameworks**: Bootstrap, Semantic UI. Material UI
 - **Backend**: Node.js, Django, Express.js
 - **Databases**: MongoDB, PostgreSQL
 - **Tools**: Git, Docker, Webpack
