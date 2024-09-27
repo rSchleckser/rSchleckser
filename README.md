@@ -30,5 +30,5 @@ I am a **Software Engineer** with a background in avionics, where I developed st
 ### 📫 Let's Connect!
 
 - [LinkedIn](www.linkedin.com/in/richard-schleckser-b4808487)
-- [Portfolio]([https://rschleckser.github.io/](https://rschleckser.github.io/richSchleckser.github.io/))
+- [Portfolio](https://rschleckser.github.io/richSchleckser.github.io/)
 
